@@ -38,7 +38,7 @@ public class MyView extends View {
         mPaint.setDither(true);
         mPaint.setStyle(Paint.Style.STROKE);
         mPaint.setColor(Color.GREEN);
-        mPaint.setStrokeWidth(5);
+        mPaint.setStrokeWidth(25);
         mPath = new Path();
     }
 
