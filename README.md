@@ -1,6 +1,7 @@
 # Bezier
-贝塞尔曲线初步应用
+# 贝塞尔曲线初步应用
 
-![写字板](C:\Users\SharpCJ\Desktop\aaa.jpg)
+---
+![demo pic](./write.gif)
        
-![波浪](C:\Users\SharpCJ\Desktop\bbb.jpg)
+![demo pic](./wave.gif)
